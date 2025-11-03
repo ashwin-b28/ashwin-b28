@@ -61,7 +61,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Certified_SOC_Analyst_(CSA)-006400?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-BCA_(Bachelor_of_Computer_Applications)-000080?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%2B_(In_Progress)-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 </div>
 
 ---
